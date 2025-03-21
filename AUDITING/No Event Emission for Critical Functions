@@ -1,0 +1,2 @@
+What it is: Functions that change the state of the contract (e.g., transferring ownership, withdrawal, etc.) do not emit events, making it hard to track or log important actions.
+How to fix: Emit events for critical state-changing actions (e.g., emit OwnershipTransferred(newOwner)).
