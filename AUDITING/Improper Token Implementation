@@ -1,0 +1,2 @@
+//What it is: A poorly implemented token contract (e.g., ERC-20, ERC-721) that doesn't follow the correct standards or exposes vulnerabilities such as lacking the approve mechanism or reentrancy issues.
+How to fix: Follow the official token standards (ERC-20, ERC-721, etc.) and test thoroughly.
