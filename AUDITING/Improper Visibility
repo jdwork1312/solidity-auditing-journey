@@ -1,2 +1,0 @@
-// What it is: Using improper visibility (like making sensitive functions public or internal when they should be private).
-How to fix: Properly set function visibility based on the intended access level (public, internal, private, external).
