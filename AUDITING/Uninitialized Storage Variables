@@ -1,2 +1,0 @@
-//What it is: Not initializing important state variables in the contract, which can lead to unpredictable behavior or errors.
-How to fix: Always initialize state variables, ideally in the constructo
