@@ -1,0 +1,2 @@
+//What it is: Using the selfdestruct function to remove a contract, which can be called by anyone, even unauthorized users.
+How to fix: Restrict access to selfdestruct using proper access control (e.g., onlyOwner modifier).
