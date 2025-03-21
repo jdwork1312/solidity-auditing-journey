@@ -1,0 +1,2 @@
+//What it is: A malicious actor can observe pending transactions and submit their own transaction first to gain an advantage (e.g., by changing the outcome of an auction).
+How to fix: Use commit-reveal schemes or randomization to protect against front-running.
