@@ -1,2 +1,0 @@
-//What it is: If a contract is supposed to receive Ether, but lacks a fallback function, it could reject all incoming transfers, causing a loss of funds.
-How to fix: Add a proper fallback function to receive Ether.
