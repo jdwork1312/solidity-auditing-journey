@@ -1,0 +1,2 @@
+//What it is: Using predictable sources for randomness (like block.timestamp, block.difficulty, etc.), which can be manipulated by miners.
+How to fix: Use a verifiable random function (VRF) or Chainlink VRF for secure randomness.
