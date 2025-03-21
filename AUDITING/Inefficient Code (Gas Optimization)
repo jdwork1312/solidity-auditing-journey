@@ -1,2 +1,0 @@
-//What it is: Writing inefficient code that consumes more gas than necessary, leading to higher transaction costs for users.
-How to fix: Use gas-efficient practices, like minimizing storage writes, avoiding expensive loops, and reducing the use of storage variables
